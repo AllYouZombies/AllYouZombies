@@ -1,6 +1,7 @@
 # 💫 About Me:
 I do anything, just call action 📸
 
+![Bonsai](./bonsai-2202770_1920.png)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/all.you.zombies) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rustam-astafeev) 
