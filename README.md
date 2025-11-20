@@ -1,6 +1,6 @@
 ## I do anything, just call action 📸
 
-![Bonsai](./bonsai-2202770_1920.png)
+![Tomato](./tomato-308855_1920.png)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AllYouZombies&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
